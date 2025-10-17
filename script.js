@@ -3,7 +3,6 @@ const minuteHand = document.querySelector('.minute-hand');
 const secondHand = document.querySelector('.second-hand');
 const digitalTime = document.getElementById('digital-time');
 const dateDisplay = document.getElementById('date-display');
-const timezoneDisplay = document.getElementById('timezone');
 
 function updateClock() {
     const now = new Date();
@@ -26,8 +25,6 @@ function updateClock() {
 
     const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
     dateDisplay.textContent = now.toLocaleDateString('en-US', options);
-
-    timezoneDisplay.textContent = `Timezone: ${Intl.DateTimeFormat().resolvedOptions().timeZone}`;
 }
 
 updateClock();
