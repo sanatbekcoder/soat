@@ -148,33 +148,6 @@ h1 {
     margin-top: 1rem;
 }
 
-.features {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 2rem;
-}
-
-.feature {
-    background: rgba(255, 255, 255, 0.1);
-    padding: 0.8rem 1.2rem;
-    border-radius: 10px;
-    flex: 1;
-    margin: 0 0.5rem;
-    transition: all 0.3s ease;
-    cursor: pointer;
-}
-
-.feature:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: translateY(-3px);
-}
-
-.feature i {
-    display: block;
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-}
-
 .pulse {
     animation: pulse 2s infinite;
 }
