@@ -18,6 +18,7 @@ Bu **interaktiv analog va raqamli soat** loyihasi bo'lib, CSS va JavaScript yord
 - **CSS3** - Zamonaviy stillar va animatsiyalar
 - **Vanilla JavaScript** - Hech qanday kutubxonasiz
 - **CSS Grid & Flexbox** - Moslashuvchan layout
+<img width="1100" height="1300" alt="image" src="https://github.com/user-attachments/assets/12a34dc2-c06c-40b0-907e-e151e82261bc" />
 
 ## 🚀 O'rnatish va Ishlatish
 
