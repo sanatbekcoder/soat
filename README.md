@@ -24,5 +24,5 @@ Bu **interaktiv analog va raqamli soat** loyihasi bo'lib, CSS va JavaScript yord
 
 ### 1. Fayllarni yuklab olish
 ```bash
-git clone https://github.com/your-username/interactive-clock.git
-cd interactive-clock
+git clone https://github.com/sanatbekcoder/soat.git
+cd soat
